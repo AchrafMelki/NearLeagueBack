@@ -12,7 +12,7 @@ node_modules/
 dist/
 
 # Environment variables
-.env
+src/.env
 
 # IDE specific files
 .vscode/
